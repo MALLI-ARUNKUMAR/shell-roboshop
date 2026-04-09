@@ -3,7 +3,7 @@
 SG_ID="sg-036850fbe33be2230" # 
 AMI_ID="ami-0220d79f3f480ecf5"
 ZONE_ID="Z06706362WZDDNME402LS"
-DOMAIN_NAME="daws88s.online"
+DOMAIN_NAME="daws880s.online"
 
 for instance in $@
 do
